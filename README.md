@@ -29,12 +29,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dwi-lutfi&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwi-lutfi&layout=compact&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tetraxion&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetraxion&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwi-lutfi&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tetraxion&theme=radical" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ## 🧙‍♂️ Github Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dwi-lutfi&theme=gruvbox&row=1&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tetraxion&theme=gruvbox&row=1&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
