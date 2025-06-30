@@ -47,6 +47,7 @@
 | **SpeechDelay-AI** | Mobile AI app for early speech delay detection in children | `Flutter`, `Python`, `Denver II`, `Shimmer`, `ML` |
 | **Next Blog** | Blog platform with MDX, animations, and dark mode | `Next.js`, `Tailwind`, `Framer Motion` |
 | **Super App** | onprogres |  `Flutter`, `Laravel`, `GetX`, `Docker`|
+| **DetectLiver-AI** | onprogres  | `HTML`,`CSS`, `Python`, `Google Colab`, `Flask`, `ML` |
 
 ---
 
