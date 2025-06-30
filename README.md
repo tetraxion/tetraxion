@@ -43,6 +43,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| **Marielocation** | Web-based platform for browsing and purchasing wedding gowns | `Laravel`, `Bootsrap`, `Mysql` |
 | **GetCrew App** | Event crew finder app with review system and profile video | `Flutter`, `Firebase`, `GetX`, `Firestore` |
 | **SpeechDelay-AI** | Mobile AI app for early speech delay detection in children | `Flutter`, `Python`, `Denver II`, `Shimmer`, `ML` |
 | **Next Blog** | Blog platform with MDX, animations, and dark mode | `Next.js`, `Tailwind`, `Framer Motion` |
