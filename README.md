@@ -49,6 +49,7 @@
 | **Next Blog** | Blog platform with MDX, animations, and dark mode | `Next.js`, `Tailwind`, `Framer Motion` |
 | **Super App** | onprogres |  `Flutter`, `Laravel`, `GetX`, `Docker`|
 | **DetectLiver-AI** | onprogres  | `HTML`,`CSS`, `Python`, `Google Colab`, `Flask`, `ML` |
+| **New App** | onprogres |  `Flutter`, `Laravel`, `GetX`, `Docker`, `Nexs`, `Python`|
 
 ---
 
