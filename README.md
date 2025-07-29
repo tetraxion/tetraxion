@@ -56,7 +56,7 @@
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/dwi-lutfi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dwi-lutfi-988026277/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/email-DwiLutfi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://dwi-lutfi.github.io"><img src="https://img.shields.io/badge/Portfolio-%23ff5f5f.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
