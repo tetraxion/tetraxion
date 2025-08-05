@@ -11,7 +11,9 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Final-year Information Systems student at Telkom University Surabaya  
-- 💼 Currently Mobile Developer intern at **INDI Teknokreasi Internasional**  
+- 💼 Currently Mobile Developer intern at 
+- 💼 Currently interning as a Mobile Developer at **Dexs Pump**
+- 🏢 Previously interned as a Mobile Developer at **INDI Teknokreasi Internasional**
 - 🚀 I build **AI apps**, **mobile-first web apps**, and **tools for real-world problems**  
 - 🧠 Passionate about **clean code, UI/UX, and smart solutions**  
 - 📚 Currently learning: `LLMs`, `LangChain`, `TensorFlow`, `Next.js 14`, `Supabase`
