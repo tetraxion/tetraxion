@@ -231,22 +231,6 @@ graph LR
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/tetraxion/tetraxion/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Show some ❤️ by starring some repositories!
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 **⭐ From [Dwi Lutfi](https://github.com/tetraxion) with 💙**
 
 </div>
