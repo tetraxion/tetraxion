@@ -98,16 +98,11 @@ const dwi_lutfi = {
 
 ## � GitHub Analytics
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tetraxion&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F7941D&icon_color=F7941D&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetraxion&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7941D&text_color=FFFFFF"/>
 
-</div>
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tetraxion&theme=tokyonight&hide_border=true&background=0D1117&ring=F7941D&fire=F7941D&currStreakLabel=F7941D)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tetraxion&theme=tokyonight&hide_border=true&background=0D1117&ring=F7941D&fire=F7941D&currStreakLabel=F7941D)
 
 </div>
 
