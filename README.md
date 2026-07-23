@@ -126,9 +126,6 @@ const dwi_lutfi = {
 > **A digitalized budget planning, SBM rate management, and SPJ reporting system for a department within the Indonesian Ministry of Tourism.**
 >
 > 🛠️ **Tech Stack:** `Laravel (PHP)` `MySQL` `Alpine.js` `DomPDF` `PhpSpreadsheet`
->
-> 🌐 **Links:** [Live Demo](https://anara.dbii.fun/login)
->
 > - Engineered dynamic calculation algorithms to automate official government budget allocations and reports.
 > - Implemented secure spreadsheet import reconciliations and PDF export flows.
 
